@@ -1,4 +1,7 @@
 ### Hi there 👋
+##### -My name is navya
+##### -I am from guntur
+##### - i am a girl
 
 <!--
 **NSM239/NSM239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
